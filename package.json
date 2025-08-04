@@ -1,0 +1,14 @@
+{
+  "name": "whatsapp-gemini-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp bot using Gemini API",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^6.7.6",
+    "axios": "^1.7.0",
+    "dotenv": "^16.3.1"
+  }
+}
